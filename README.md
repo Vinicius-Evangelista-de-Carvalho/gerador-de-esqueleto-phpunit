@@ -1,4 +1,4 @@
-**This project has been abandoned and is no longer maintained.**
+
 
 # PHPUnit Skeleton Generator
 
